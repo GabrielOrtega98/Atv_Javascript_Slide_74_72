@@ -1,0 +1,11 @@
+body
+	{ background-color: #d3d3d3;
+    	  background-repeat: no-repeat;
+  	  background-attachment: fixed; 
+	  background-size:100%;}	
+
+	input, form { font-style: italic;font-family:arial; font-size: 15pt;
+            	text-align:center; }
+	
+
+	h1, h6 {font-style: italic;font-family:arial;}
